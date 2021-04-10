@@ -48,7 +48,7 @@ The final inputs are uploaded in the Postgres Tool by the script “ETL_script�
 	
 The final inputs were uploaded into Postgres as relational databases, since all the information is related by a movie ID, and in case of the ratings, the ID is a dependency given by the table of characteristics of the movies.
 
-![ERDiagram_SQL.png](ERDiagram_SQL.png)
+![ERDiagram_SQL.png](evidence/ERDiagram_SQL.png)
 	
 The data was validated in order to know how many records we have in each table, which records are in the main universe and which are missing. This process was developed in order to have a complete dataset.
 	
@@ -56,4 +56,4 @@ After joining the three inputs, and complementing the main universe, the rating 
 	
 The final database useful for analysis is “imdb_movies_global”.
 
-![final_table.png](final_table.png)
+![final_table.png](evidence/final_table.png)
