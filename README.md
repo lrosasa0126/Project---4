@@ -16,6 +16,7 @@ Three databases obtained from "Kaggle" and "Data World", in csv format were sele
 The data cleaning process began, identifying that “IMDb movies” databases were very similar.
 
 
+
 #**Transform:**
 
 The data cleaning process began, identifying that both databases were very similar.
@@ -36,6 +37,7 @@ The ratings universe is transformed in the script “imdb_ratings.ipynb” creat
 The complementary universe is transformed in the script “IMDB_MOVIES_B.ipynb” following the same logic used in “movie_extract.ipynb” and transforms in a new csv file. 
 
 The final inputs are uploaded in the Postgres Tool by the script “ETL_script”.
+
 
 
 #**Load:**
