@@ -8,6 +8,7 @@ Three databases obtained from "Kaggle" and "Data World", in csv format were sele
                               (IMDb movies.csv,  IMDb ratings.csv)
 2.     https://data.world/mahe432/movies 
       (IMDb movies.csv)
+
 The data cleaning process began, identifying that “IMDb movies” databases were very similar.
 Transform: 
             The data cleaning process began, identifying that both databases were very similar.
