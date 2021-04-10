@@ -3,6 +3,7 @@
 Final Report:
 
 #############
+
 #**Extract:**
 
 The selected topic was movies.
@@ -18,6 +19,7 @@ The data cleaning process began, identifying that “IMDb movies” databases we
 
 
 ###############
+
 #**Transform:**
 
 The data cleaning process began, identifying that both databases were very similar.
@@ -41,6 +43,7 @@ The final inputs are uploaded in the Postgres Tool by the script “ETL_script�
 
 
 ##########
+
 #**Load:**
 	
 The final inputs were uploaded into Postgres as relational databases, since all the information is related by a movie ID, and in case of the ratings, the ID is a dependency given by the table of characteristics of the movies.
