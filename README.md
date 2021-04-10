@@ -26,12 +26,17 @@ The data cleaning process began, identifying that both databases were very simil
 	    
 Using Jupyter notebook (Python 3), we determined that the necessary data for the analysis was:
 
-Film ID
-Film Title
-Year
-Rating
-Genre
-Country
+-Film ID 
+
+-Film Title
+
+-Year
+
+-Rating
+
+-Genre
+
+-Country
 
 For the main universe, the script “movie_extract.ipynb” makes the cleaning of the tables, creates a new DataFrame with the records divided into single values and transforms in a new csv file. 
 
